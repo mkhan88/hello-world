@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Office 360" language="en" table="x_61690_office_360_x_61690_office_360">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Office 360</label>
+            <language>en</language>
+            <name>x_61690_office_360_x_61690_office_360</name>
+            <plural>Office 360s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-30 10:25:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>fd2373cb0f70030074bd0cbce1050e2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Office 360</sys_name>
+            <sys_package display_value="Office 360" source="x_61690_office_360">9d23b74b0f70030074bd0cbce1050e21</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Office 360">9d23b74b0f70030074bd0cbce1050e21</sys_scope>
+            <sys_update_name>sys_documentation_x_61690_office_360_x_61690_office_360__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-30 10:25:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
